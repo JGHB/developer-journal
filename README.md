@@ -2,12 +2,12 @@
 
 <!-- Structure should be https://github.com/{owner}/{repoName}/ -->
 
-[github-learning]: https://github.com/hanfamilym1/developer-journal-template/pulls?q=is%3Apr+is%3Aclosed+label%3Alearning
-[github-language]: https://github.com/hanfamilym1/developer-journal-template/pulls?q=is%3Apr+is%3Aclosed+label%3Alanguage
-[github-snippet]: https://github.com/hanfamilym1/developer-journal-template/pulls?q=is%3Apr+is%3Aclosed+label%3Asnippet
-[github-tool]: https://github.com/hanfamilym1/developer-journal-template/pulls?q=is%3Apr+is%3Aclosed+label%3Atool
-[github-wins]: https://github.com/hanfamilym1/developer-journal-template/pulls?q=is%3Apr+is%3Aclosed+label%3Awins
-[github-brag]: https://github.com/hanfamilym1/developer-journal-template/pulls?q=is%3Apr+is%3Aclosed+label%3Abrag
+[github-learning]: https://github.com/jghb/developer-journal/pulls?q=is%3Apr+is%3Aclosed+label%3Alearning
+[github-language]: https://github.com/jghb/developer-journal/pulls?q=is%3Apr+is%3Aclosed+label%3Alanguage
+[github-snippet]: https://github.com/jghb/developer-journal/pulls?q=is%3Apr+is%3Aclosed+label%3Asnippet
+[github-tool]: https://github.com/jghb/developer-journal/pulls?q=is%3Apr+is%3Aclosed+label%3Atool
+[github-wins]: https://github.com/jghb/developer-journal/pulls?q=is%3Apr+is%3Aclosed+label%3Awins
+[github-brag]: https://github.com/jghb/developer-journal/pulls?q=is%3Apr+is%3Aclosed+label%3Abrag
 
 [![learning](https://img.shields.io/badge/learning-3-052F5F)][github-learning]
 [![snippet](https://img.shields.io/badge/snippet-2-005377)][github-snippet]
