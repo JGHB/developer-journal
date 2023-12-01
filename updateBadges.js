@@ -33,7 +33,7 @@ async function fetchClosedPRCount(owner, name, label, accessToken) {
     );
     return response.data.data.repository.pullRequests.totalCount;
   } catch (e) {
-    console.error(e);
+    console.error("e");
   }
 }
 
